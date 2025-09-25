@@ -1,2 +1,2 @@
-# CAS Public
-Public demo project for Character Animation System
+# KINEMATION Demo Projects
+Public demo content for KINEMATION assets.
